@@ -2,6 +2,8 @@
 ### 2021 Graduation work
 #### *부동산 데이터 시각화 서비스*
 
+> 웹: [https://miji0317.github.io/yasim/](https://miji0317.github.io/yasim/)
+
 > 챗봇: [http://pf.kakao.com/_xbbSfs](http://pf.kakao.com/_xbbSfs)
 
 > 프로젝트 요약서: [PDF](https://drive.google.com/file/d/1ppQjdOs-jvPrImOAGkst2_pQXewhwxtG/view?usp=sharing)
