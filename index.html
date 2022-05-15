@@ -13,15 +13,11 @@
 	<!--상단바-->
 	<header>
 		<a href="" class="logo"><img src="image/logo.png"></a>
-		<nav>
-			<ul>
-				<li><a href="html/avgPrice.html"><b>평당가 비교</b></a></li>
-				<li><a href="html/avgPriceMap.html"><b>평당가 지도</b></a></li>
-				<li><a href="html/avgPriceTrend.html"><b>평당가 시세 트렌드</b></a></li>
-		        <li><a href="html/countYear.html"><b>년도별 거래량</b></a></li>
-		        <li><a href="html/countMonth.html"><b>월별 거래량</b></a></li>
-    		</ul>
-    	</nav>
+        <li><a href="html/avgPrice.html"><b>평당가 비교</b></a></li>
+        <li><a href="html/avgPriceMap.html"><b>평당가 지도</b></a></li>
+        <li><a href="html/avgPriceTrend.html"><b>평당가 시세 트렌드</b></a></li>
+        <li><a href="html/countYear.html"><b>년도별 거래량</b></a></li>
+        <li><a href="html/countMonth.html"><b>월별 거래량</b></a></li>
 	</header>
 
 	<!--인덱스-->
@@ -53,35 +49,39 @@
 		</span>
 	</div>
 
-	<!--평당가 분석-->
-	<div class="property">
-		<div class="propertyImg"><img src="image/avgMap.png"></div>
-		<div class="propertyText">
-			<p>아파트, 오피스텔, 연립다세대, 단독다가구<br>자치구별/주택별 평당가 정보를 한 번에</p><br>
-			<div class="btnGo"><a href="html/goAvg.html">평당가 정보 알아보기</a></div>
+	<!-- 컨텐츠 -->
+	<div id="contentBox">
+		<!--평당가 분석-->
+		<div class="property">
+			<img src="image/avgMap.png">
+			<div class="propertyText">
+				<p>아파트, 오피스텔, 연립다세대, 단독다가구<br>자치구별/주택별 평당가 정보를 한 번에</p><br>
+				<div class="btnGo"><a href="html/goAvg.html">평당가 정보 알아보기</a></div>
+			</div>
 		</div>
-	</div>
 
-	<!-- 거래량 분석-->
-	<div class="count">
-		<div class="countText">
-			<p>아파트, 오피스텔, 연립다세대, 단독다가구<br>년도별/월별 거래량 정보를 한 번에</p><br>
-			<div class="btnGo"><a href="html/goCount.html">거래량 정보 알아보기</a></div>
+		<!-- 거래량 분석-->
+		<div class="count">
+			<div class="countText">
+				<p>아파트, 오피스텔, 연립다세대, 단독다가구<br>년도별/월별 거래량 정보를 한 번에</p><br>
+				<div class="btnGo"><a href="html/goCount.html">거래량 정보 알아보기</a></div>
+			</div>
+			<img src="image/count.png">
 		</div>
-		<div class="countImg"><img src="image/count.png"></div>
-	</div>
 
-	<!-- 챗봇 소개 -->
-	<div class="cbotIntro">
-		<div class="cbotIntroImg"><img src="image/cbotIntro.png"></div>
-		<div class="cbotIntroText">
-			<p>부동산 실거래가, 전세가, 평당가<br>이제 간단하게 챗봇에게 물어보세요!</p><br>
-		</div>
-		<div class="cbotIntroSub">
-			<p>카카오톡에서 채널 친구추가 후 쉽게 사용하실 수 있습니다.</p>
-			<p>똑똑한 인공지능이 여러분의 부동산 거래를 도와줄 것입니다.</p>
+		<!-- 챗봇 소개 -->
+		<div class="cbotIntro">
+			<img src="image/cbotIntro.png">
+			<div class="cbotIntroText">
+				<p>부동산 실거래가, 전세가, 평당가<br>이제 간단하게 챗봇에게 물어보세요!</p><br>
+				<div class="cbotIntroSub">
+					<p>카카오톡에서 채널 친구추가 후 쉽게 사용하실 수 있습니다.</p>
+					<p>똑똑한 인공지능이 여러분의 부동산 거래를 도와줄 것입니다.</p>
+				</div>
+			</div>
 		</div>
 	</div>
+	
 
 	<!-- 챗봇 시작 -->
 	<div class="cbotStart">
@@ -94,31 +94,31 @@
 
 	<!--슬라이드 광고-->
 	<div class="section">
-	<input type="radio" name="slide" id="slide01" checked>
-	<input type="radio" name="slide" id="slide02">
-	<input type="radio" name="slide" id="slide03">
-	<div class="slidewrap">
-		<ul class="slidelist">
-			<li><a><img src="image/ad1.png"></a></li>
-			<li><a><img src="image/ad2.png"></a></li>
-			<li><a><img src="image/ad3.png"></a></li>
-		</ul>
+		<input type="radio" name="slide" id="slide01" checked>
+		<input type="radio" name="slide" id="slide02">
+		<input type="radio" name="slide" id="slide03">
+		<div class="slidewrap">
+			<ul class="slidelist">
+				<li><a><img src="image/ad1.png"></a></li>
+				<li><a><img src="image/ad2.png"></a></li>
+				<li><a><img src="image/ad3.png"></a></li>
+			</ul>
 
-		<div class="slide-control">
-			<div class="control01">
-				<label for="slide03" class="left"></label>
-				<label for="slide02" class="right"></label>
-			</div>
-			<div class="control02">
-				<label for="slide01" class="left"></label>
-				<label for="slide03" class="right"></label>
-			</div>
-			<div class="control03">
-				<label for="slide02" class="left"></label>
-				<label for="slide01" class="right"></label>
+			<div class="slide-control">
+				<div class="control01">
+					<label for="slide03" class="left"></label>
+					<label for="slide02" class="right"></label>
+				</div>
+				<div class="control02">
+					<label for="slide01" class="left"></label>
+					<label for="slide03" class="right"></label>
+				</div>
+				<div class="control03">
+					<label for="slide02" class="left"></label>
+					<label for="slide01" class="right"></label>
+				</div>
 			</div>
 		</div>
-	</div>
 	</div>
 
 	<!--푸터-->
