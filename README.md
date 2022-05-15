@@ -36,6 +36,4 @@
 ![web_countMonth](https://user-images.githubusercontent.com/73158122/168462308-3c5d2dda-1a2d-452b-bd5b-c7391b56bfe2.png)
 
 2. 챗봇
-![1652600502949](https://user-images.githubusercontent.com/73158122/168462585-6bd55b71-4a7f-4a45-b105-10afdb7e00d5.jpg)
-![1652600557862](https://user-images.githubusercontent.com/73158122/168462586-93a41ead-3068-45dc-8c2d-dfa914fa7883.jpg)
-![1652600569280](https://user-images.githubusercontent.com/73158122/168462587-5d2b11b6-7477-4d96-8c7c-99d25a6460d8.jpg)
+![chatbot](https://user-images.githubusercontent.com/73158122/168462815-0e730ef9-a8d8-41a0-80b6-67b6381ca7d5.png)
