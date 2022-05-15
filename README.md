@@ -28,7 +28,7 @@
 ![web_trend](https://user-images.githubusercontent.com/73158122/168462305-7a4ea8df-a37c-49ff-87aa-7926e7c6a343.png)
 
 - 년도별 거래량
-![web_countYear](https://user-images.githubusercontent.com/73158122/168462311-88a256d9-5e7d-4448-9eef-a19aa961b661.png)
+![web_countYear](https://user-images.githubusercontent.com/73158122/168462386-44ac1e54-6abe-423c-a727-fd1283770e57.png)
 
 - 월별 거래량
 ![web_countMonth](https://user-images.githubusercontent.com/73158122/168462308-3c5d2dda-1a2d-452b-bd5b-c7391b56bfe2.png)
