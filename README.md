@@ -25,8 +25,7 @@
 | 평당가 지도 | 평당가 시세 트렌드 |
 | ![web_map](https://user-images.githubusercontent.com/73158122/168462302-4af78695-b890-4856-b541-92c3032248af.png) | ![web_trend](https://user-images.githubusercontent.com/73158122/168462305-7a4ea8df-a37c-49ff-87aa-7926e7c6a343.png) |
 | 연도별 거래량 | 월별 거래량 |
-| ![web_countYear](https://user-images.githubusercontent.com/73158122/168462386-44ac1e54-6abe-423c-a727-fd1283770e57.png) | ![web_countMonth](https://user-images.githubusercontent.com/73158122/168462308-3c5d2dda-1a2d-452b-bd5b-c7391b56bfe2.png) |
-
+| ![web_countYear](https://user-images.githubusercontent.com/73158122/185193404-1425b4d0-729a-41f0-9028-cc264456945a.png) | ![web_countMonth](https://user-images.githubusercontent.com/73158122/185193029-079eedb6-6774-47fe-b361-e94edd6766ca.png) |
 
 2. 챗봇
 ![chatbot](https://user-images.githubusercontent.com/73158122/168462815-0e730ef9-a8d8-41a0-80b6-67b6381ca7d5.png)
