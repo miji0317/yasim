@@ -18,23 +18,15 @@
 
 1. 웹페이지
 
-- 인덱스
-![web_index](https://user-images.githubusercontent.com/73158122/168462212-059f4482-46a6-4148-b11b-b7efbc9f679f.png)
+|  |  |
+| ---------------------------- | ---------------------------- |
+| 인덱스 페이지 | 평당가 비교 페이지 |
+| ![web_index](https://user-images.githubusercontent.com/73158122/168462212-059f4482-46a6-4148-b11b-b7efbc9f679f.png) | ![web_property](https://user-images.githubusercontent.com/73158122/168462297-5ff91331-8ee3-4136-a2f6-2d8064569ade.png) |
+| 평당가 지도 | 평당가 시세 트렌드 |
+| ![web_map](https://user-images.githubusercontent.com/73158122/168462302-4af78695-b890-4856-b541-92c3032248af.png) | ![web_trend](https://user-images.githubusercontent.com/73158122/168462305-7a4ea8df-a37c-49ff-87aa-7926e7c6a343.png) |
+| 연도별 거래량 | 월별 거래량 |
+| ![web_countYear](https://user-images.githubusercontent.com/73158122/168462386-44ac1e54-6abe-423c-a727-fd1283770e57.png) | ![web_countMonth](https://user-images.githubusercontent.com/73158122/168462308-3c5d2dda-1a2d-452b-bd5b-c7391b56bfe2.png) |
 
-- 평당가 비교
-![web_property](https://user-images.githubusercontent.com/73158122/168462297-5ff91331-8ee3-4136-a2f6-2d8064569ade.png)
-
-- 평당가 지도
-![web_map](https://user-images.githubusercontent.com/73158122/168462302-4af78695-b890-4856-b541-92c3032248af.png)
-
-- 평당가 시세 트렌드
-![web_trend](https://user-images.githubusercontent.com/73158122/168462305-7a4ea8df-a37c-49ff-87aa-7926e7c6a343.png)
-
-- 년도별 거래량
-![web_countYear](https://user-images.githubusercontent.com/73158122/168462386-44ac1e54-6abe-423c-a727-fd1283770e57.png)
-
-- 월별 거래량
-![web_countMonth](https://user-images.githubusercontent.com/73158122/168462308-3c5d2dda-1a2d-452b-bd5b-c7391b56bfe2.png)
 
 2. 챗봇
 ![chatbot](https://user-images.githubusercontent.com/73158122/168462815-0e730ef9-a8d8-41a0-80b6-67b6381ca7d5.png)
