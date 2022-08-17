@@ -14,6 +14,7 @@
 | 개발 언어 | Python, HTML, CSS, Java Script |
 | 개발 환경 | 데이터: 공공 데이터 포털 < 국토 교통부 실거래 자료 Open API <br> 데이터 분석 및 시각화 개발: Jupyter Notebook <br>  화면 디자인 설계: Adobe XD <br> 웹 개발: Sublime Text3 <br> 챗봇 개발: 카카오 i오픈 빌더, 카카오 채널 관리자 |
 | 개발 인원 | 4명 |
+| 담당 파트 | 팀장, 데이터 시각화, 챗봇 개발, 웹 개발 |
 
 1. 웹페이지
 
